@@ -1,8 +1,4 @@
 
-let player = {
-    name : "Cate",
-    coins : 12
-}
 
 let cards = []
 let sum = 0
